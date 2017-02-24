@@ -29,7 +29,7 @@ public class TestAutoHideActivity extends AppCompatActivity {
 
     public List<String> getDataList() {
         List<String> dataList = new ArrayList<>();
-        for (int i = 0; i < 30; i++) {
+        for (int i = 0; i < 50; i++) {
             dataList.add("item " + i);
         }
         return dataList;
